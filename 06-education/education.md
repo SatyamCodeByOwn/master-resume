@@ -26,11 +26,13 @@
 
 ### Academic Highlights
 
+- Graduated with a **Bachelor of Technology in Information Technology** in **2025**.
+- Secured **2nd Rank** in the Information Technology branch during the B.Tech program.
 - Built a strong foundation in software engineering and backend development.
 - Developed multiple academic and personal projects using Java, Spring Boot, React.js, and SQL.
-- Focused on practical learning by building full-stack applications and enterprise-style backend services.
+- Focused on practical learning by building full-stack applications and enterprise-style backend systems.
 - Continuously improved problem-solving skills through Data Structures and Algorithms practice.
-
+  
 ### Technical Exposure During College
 
 - Java
