@@ -40,6 +40,10 @@
 
 > https://leetcode.com/u/satyamsinghj/
 
+**GeeksForGeeks**
+
+> https://www.geeksforgeeks.org/profile/wwwsatyamsralo?tab=overview
+
 **HackerRank**
 
 > https://www.hackerrank.com/profile/www_satyamsingh1
