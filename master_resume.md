@@ -1,53 +1,19 @@
-# Satyam Singh
+# Master Resume
 
-## Contact Information
+## Contact
+See: 01-contact/contact.md
 
-- Full Name:
-- Phone:
-- Email:
-- LinkedIn:
-- GitHub:
-- Portfolio:
-- Location:
+## Skills
+See: 03-skills/technical_skills.md
 
----
-
-## Professional Summary
-
-(To be written later)
-
----
-
-## Technical Skills
-
-(To be written later)
-
----
-
-## Professional Experience
-
-(To be written later)
-
----
+## Experience
+- Digit Insurance
+- Glamwood
 
 ## Projects
-
-(To be written later)
-
----
+- Quiz Application
+- Quality Check Service
+- Information Request Service
 
 ## Education
-
-(To be written later)
-
----
-
-## Certifications
-
-(To be written later)
-
----
-
-## Achievements
-
-(To be written later)
+See: 06-education/education.md
