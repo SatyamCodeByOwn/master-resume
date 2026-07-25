@@ -42,7 +42,7 @@
 
 **GeeksForGeeks**
 
-> https://www.geeksforgeeks.org/profile/wwwsatyamsralo?tab=overview
+> https://www.geeksforgeeks.org/profile/wwwsatyamsralo
 
 **HackerRank**
 
