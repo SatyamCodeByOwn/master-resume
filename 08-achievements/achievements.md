@@ -45,7 +45,10 @@
 
 ## Academic Achievements
 
-- Graduated with a **CGPA of 8.3 / 10** in Bachelor of Technology (Information Technology).
+- Graduated with a **Bachelor of Technology (Information Technology)** in **2025**.
+- Passed B.Tech with **First Division with Distinction**.
+- Secured **2nd Rank** in the Information Technology branch.
+- Graduated with a **CGPA of 8.3 / 10**.
 - Successfully completed multiple academic and personal software engineering projects.
 
 ---
