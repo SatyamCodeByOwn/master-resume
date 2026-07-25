@@ -65,13 +65,14 @@
 ### 2024
 
 - Successfully completed Web Development Internship at Glamwood Interiors.
-- Graduated with a Bachelor of Technology in Information Technology.
 
 ### 2025
 
+- Graduated with a Bachelor of Technology (Information Technology).
+- Passed B.Tech with **First Division with Distinction**.
+- Secured **2nd Rank** in the Information Technology branch.
 - Joined Digit Insurance as a Graduate Trainee Engineer.
 - Contributed to enterprise backend systems using Java and Spring Boot.
-- Developed configurable microservices and workflow automation solutions.
 - Promoted to Software Engineer.
 - Received the **Digit Mastermind Award**.
 - Achieved **Mastermind Rank #1**.
